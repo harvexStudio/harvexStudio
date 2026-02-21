@@ -11,8 +11,8 @@
 
   <br />
 
-  <a href="https://your-portfolio-link.com"><strong>Explore our portfolio</strong></a> ·
-  <a href="mailto:hello@harvexstudio.com"><strong>Contact us</strong></a>
+  <a href="https://harvex.space"><strong>Explore our portfolio</strong></a> ·
+  <a href="mailto:connect.harvex@gmail.com"><strong>Contact us</strong></a>
 </div>
 
 <hr />
@@ -42,17 +42,16 @@ We utilize a modern, scalable tech stack to bring our projects to life.
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project Alpha]** | A high-performance 3D particle system designed for interactive web backgrounds. | `Three.js`, `WebGL` |
-| **[Project Beta]** | A full-stack EdTech platform featuring real-time collaborative whiteboards. | `Next.js`, `TypeScript`, `Socket.io` |
-| **[Project Gamma]** | A sleek, real-time financial analytics dashboard for tracking key metrics. | `React`, `Node.js`, `PostgreSQL` |
+| **Particle Swarm** | A high-performance 3D particle system designed for interactive web backgrounds. | `Three.js`, `WebGL` |
+| **Adhyan Edtech** | A full-stack EdTech platform featuring real-time collaborative whiteboards. | `Next.js`, `TypeScript`, `Socket.io` |
+| **FinDash** | A sleek, real-time financial analytics dashboard for tracking key metrics. | `React`, `Node.js`, `PostgreSQL` |
 
 ## 🛰️ Transmission Incoming
 
 Ready to launch your next big idea? We're always open to collaborating on innovative projects. 
 
-* 🌐 **Website:** [harvexstudio.com](https://your-link.com)
-* 📧 **Email:** [hello@harvexstudio.com](mailto:hello@harvexstudio.com)
-* 💼 **LinkedIn:** [Harvex Studio](https://linkedin.com/company/your-link)
+* 🌐 **Website:** [harvex.space](https://harvex.space)
+* 📧 **Email:** [connect.harvex@gmail.com](mailto:connect.harvex@gmail.com)
 
 <br/>
 <div align="center">
