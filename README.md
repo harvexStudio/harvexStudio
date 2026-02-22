@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/000000/FFFFFF/?text=Harvex+Studio+|+Digital+Universe" alt="Harvex Studio Banner">
+  <img src="/harvex_github.png" alt="Harvex Studio Banner">
 
   <h1>🚀 Welcome to Harvex Studio</h1>
   
