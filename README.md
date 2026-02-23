@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/harvex_github.png" alt="Harvex Studio Banner">
+  <img src="/banner.png" alt="Harvex Studio Banner">
 
   <h1>🚀 Welcome to Harvex Studio</h1>
   
